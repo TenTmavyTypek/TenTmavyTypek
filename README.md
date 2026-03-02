@@ -1,5 +1,5 @@
 # About Me:
-💻 I’m a uni student and software developer, always trying something new because stagnation is boring and deadlines are cruel.<br><br>🔧 I write code, fix code, and sometimes make it worse. Mostly coding, occasionally debugging, and perpetually questioning my life choices.<br><br>☕ Caffeine keeps me moving, code keeps me employed, and technical debt keeps me humble.<br><br>🧩 This is my corner of the internet for experimenting, learning, and occasionally building things that outlive my attention span.
+I’m a uni student and software developer, always trying something new because stagnation is boring and deadlines are cruel.<br><br>I write code, fix code, and sometimes make it worse. Mostly coding, occasionally debugging, and perpetually questioning my life choices.<br><br>Caffeine keeps me moving, code keeps me employed, and technical debt keeps me humble.<br><br>This is my corner of the internet for experimenting, learning, and occasionally building things that outlive my attention span.
 
 
 # Tech Stack:
